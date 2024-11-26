@@ -7,6 +7,7 @@ Berikut saya akan memaparkan hasil dari UAS matkkul PBO yang memiliki porgram CR
   ![image](https://github.com/user-attachments/assets/1a34dfac-605f-47f9-9a51-15665c63310c)
 
 - Tambahkan Library dengan link berikut
+  Yakni dengan library Utama = Jasper Report, Groovy dan beberapa library tambahan yang akan saya share juga di repository ini
   ![image](https://github.com/user-attachments/assets/e63c68ea-b8cc-49cf-9f07-df8a34aae0b8)
 
 - Buat database dengan dengan query sebagai berikut
